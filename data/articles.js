@@ -1,5 +1,6 @@
 const articles = [
     {
+        "id": 1,
         "name": "Express - Introduction",
         "description": "An introduction to the Express framework",
         "type": "tutorial",
@@ -9,6 +10,7 @@ const articles = [
         ]
     },
     {
+        "id": 2,
         "name": "Machine Learning in Finance",
         "description": "Exploring the applications of machine learning in the finance industry",
         "type": "article",
@@ -18,6 +20,7 @@ const articles = [
         ]
     },
     {
+        "id": 3,
         "name": "Healthy Eating Habits",
         "description": "Tips for maintaining a healthy diet and lifestyle",
         "type": "health",
@@ -27,6 +30,7 @@ const articles = [
         ]
     },
     {
+        "id": 4,
         "name": "Traveling on a Budget",
         "description": "Discover how to travel without breaking the bank",
         "type": "travel",
@@ -36,6 +40,7 @@ const articles = [
         ]
     },
     {
+        "id": 5,
         "name": "The Rise of Cryptocurrencies",
         "description": "Exploring the evolution and impact of cryptocurrencies",
         "type": "finance",
@@ -45,6 +50,7 @@ const articles = [
         ]
     },
     {
+        "id": 6,
         "name": "Effective Time Management",
         "description": "Tips and techniques for managing your time efficiently",
         "type": "productivity",
@@ -54,6 +60,7 @@ const articles = [
         ]
     },
     {
+        "id": 7,
         "name": "Artificial Intelligence in Healthcare",
         "description": "Examining the role of AI in revolutionizing healthcare",
         "type": "article",
@@ -63,6 +70,7 @@ const articles = [
         ]
     },
     {
+        "id": 8,
         "name": "DIY Home Decor Projects",
         "description": "Creative and budget-friendly DIY home decor ideas",
         "type": "home",
@@ -72,6 +80,7 @@ const articles = [
         ]
     },
     {
+        "id": 9,
         "name": "Learning a New Programming Language",
         "description": "Strategies for mastering a new programming language",
         "type": "programming",
@@ -81,6 +90,7 @@ const articles = [
         ]
     },
     {
+        "id": 10,
         "name": "Mindfulness Meditation for Beginners",
         "description": "A guide to practicing mindfulness meditation for beginners",
         "type": "health",
@@ -90,6 +100,7 @@ const articles = [
         ]
     },
     {
+        "id": 11,
         "name": "Exploring National Parks",
         "description": "Discovering the beauty of national parks around the world",
         "type": "travel",
@@ -99,6 +110,7 @@ const articles = [
         ]
     },
     {
+        "id": 12,
         "name": "Cybersecurity Best Practices",
         "description": "Tips for securing your online presence and data",
         "type": "technology",
@@ -108,6 +120,7 @@ const articles = [
         ]
     },
     {
+        "id": 13,
         "name": "The Art of Storytelling",
         "description": "Unleashing the power of storytelling in various forms of media",
         "type": "creative",
@@ -117,6 +130,7 @@ const articles = [
         ]
     },
     {
+        "id": 14,
         "name": "Introduction to Quantum Computing",
         "description": "A beginner-friendly overview of quantum computing concepts",
         "type": "technology",
@@ -126,6 +140,7 @@ const articles = [
         ]
     },
     {
+        "id": 15,
         "name": "Plant-Based Recipes",
         "description": "Delicious and nutritious plant-based recipes for a healthy lifestyle",
         "type": "food",
