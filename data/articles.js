@@ -1,4 +1,4 @@
-module.exports.articles = [
+const articles = [
     {
         "name": "Express - Introduction",
         "description": "An introduction to the Express framework",
@@ -135,3 +135,5 @@ module.exports.articles = [
         ]
     }
 ]
+
+module.exports = articles

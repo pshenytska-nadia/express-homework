@@ -1,4 +1,4 @@
-module.exports.stats = [
+const stats = [
     {
         "name": "Aimee Zank",
         "scores": [
@@ -323,3 +323,5 @@ module.exports.stats = [
         ]
     }
 ]
+
+module.exports = stats
